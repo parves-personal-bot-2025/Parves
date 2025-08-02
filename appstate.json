@@ -76,26 +76,3 @@
         "value": "1SuY7y1izmhWRhdtN.AWdOk42rf6qA4Og1JFFIxRhT4IPMmgaXebaKprQzvMuOZi-RqRk.BojlDy..AAA.0.0.BojlJZ.AWdY4_JtxUqGwnelltAOpW1QQFA",
         "domain": "facebook.com",
         "path": "/",
-        "hostOnly": false,
-        "creation": "2025-08-02T18:02:42.183Z",
-        "lastAccessed": "2025-08-02T18:02:42.183Z"
-    },
-    {
-        "key": "presence",
-        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754157661846%2C%22v%22%3A1%7D",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-08-02T18:02:42.183Z",
-        "lastAccessed": "2025-08-02T18:02:42.183Z"
-    },
-    {
-        "key": "wd",
-        "value": "685x1284",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-08-02T18:02:42.183Z",
-        "lastAccessed": "2025-08-02T18:02:42.183Z"
-    }
-]
