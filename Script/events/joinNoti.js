@@ -46,7 +46,7 @@ ${global.config.PREFIX}manu
 𝐁𝐎𝐓 𝐍𝐀𝐌𝐄 : 𝐏𝐀𝐑𝐕𝐄𝐒 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 ⚠️
 
 ⋆✦⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆✦⋆`,
-                attachment: fs.createReadStream(__dirname + "/cache/ullash.mp4")
+                attachment: fs.createReadStream(__dirname + "/cache/Parvez.mp4")
             }, threadID)
         );
     }
