@@ -28,6 +28,8 @@ module.exports.run = async function({
  const fs = global.nodemodule["fs-extra"];
  
  var videoLinks = [
+ "https://i.imgur.com/V974iRs.mp4",
+ "https://i.imgur.com/9DIqN3f.mp4",
  "https://drive.google.com/uc?id=1ABtEvo3Cvls7pkA4e937k9aNAL_YJc8Q",
  "https://drive.google.com/uc?id=1AFXbiWAIh90KQOqVYxHWHmv-3NKmJ76a",
  "https://drive.google.com/uc?id=1AB6SN7vCf7CD1sKiklfPHZOCzf3x8iLG",
